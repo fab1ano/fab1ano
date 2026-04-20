@@ -1,6 +1,6 @@
 #### Hi, I'm Fabian 👋
 
-🎓 PhD student in Computer Science | 🛡️ Cybersecurity Researcher | 🤖 AI/LLM Specialist
+🎓 PhD candidate in Computer Science | 🛡️ Cybersecurity Researcher | 🤖 AI/LLM Specialist
 
 Currently focused on the intersection of AI and cybersecurity, particularly in the Java ecosystem.
 
